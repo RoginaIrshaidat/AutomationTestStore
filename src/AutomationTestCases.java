@@ -52,11 +52,11 @@ public class AutomationTestCases {
 		
 		//Personal Details Data
 		
-		String[] fristNames = { "amira", "rogina", "dana", "mais", "dareen"};
+		String[] fristNames = { "Rand", "Rogina", "Dania", "Lama", "Razan"};
 		int randomIndexForFirstName = rand.nextInt(fristNames.length);		
 		String randomFirstName = fristNames[randomIndexForFirstName];
 		
-		String[] lastNames = {"alaa","saif","abduallah","hamzeh", "marwan", "abedalrahman","omar"};
+		String[] lastNames = {"Mohammed","Rami","Moath","Khaled", "Ameer", "AbedAL-Rahman","Omar"};
 		int randomIndexForLastName = rand.nextInt(lastNames.length);
 		String randomLastName = lastNames[randomIndexForLastName]; 
 		

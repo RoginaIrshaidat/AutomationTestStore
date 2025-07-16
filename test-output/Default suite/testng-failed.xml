@@ -6,7 +6,7 @@
       <class name="AutomationTestCases">
         <methods>
           <include name="mySetup"/>
-          <include name="Signup"/>
+          <include name="Logout"/>
         </methods>
       </class> <!-- AutomationTestCases -->
     </classes>
